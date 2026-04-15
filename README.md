@@ -1,4 +1,4 @@
 # Clock-app
 An app that shows the time
 ## Demo
-Click [here](https://github.com/sazie1012/Word-game.git) to try
+Click [here](https://sazie1012.github.io/Clock-app/) to try
